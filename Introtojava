@@ -1,0 +1,8 @@
+let first_name = "Damilola"
+let last_name = "Adegbite"
+let height = 5 + "inches " + 2 + "feet"
+let country = "Nigeria"
+
+console.log("My name is " + first_name + " " + last_name)
+console.log("I am " + height + " " + "tall")
+console.log("I live in " + country)
